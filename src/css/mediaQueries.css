@@ -1,0 +1,10 @@
+@media screen and (max-width: 870px){
+    .imagecard :link{
+        display: inline-block;
+    }
+    .filter-content,.left-subcontent{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+}

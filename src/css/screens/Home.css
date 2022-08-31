@@ -1,0 +1,31 @@
+.homepage .showcase-area{
+    margin: 3rem auto;
+}
+.loading{
+    font-size: var(--h1-font-size);
+    font-weight: var(--font-medium);
+}
+.filter-content{
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.right-subcontent{
+    margin: 0 var(--mb-1);
+}
+.left-subcontent{
+    margin: 0 var(--mb-1);
+}
+.input-box{
+    margin: 0 var(--mb-0-5);
+}
+.product-btn{
+    padding: .5rem .7rem;
+    border: none;
+    color: var(--white-color);
+    border-radius: .3rem;
+    cursor: pointer;
+    background-color: var(--primary);
+    box-shadow: var(--box-shadow);
+}
